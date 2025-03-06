@@ -1,7 +1,5 @@
 package Arrays;
-
 import java.util.Scanner;
-
 public class Arrays_BestTimeToBuyAndSellStock{
 
     // Method to calculate the maximum profit
